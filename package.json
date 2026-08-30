@@ -30,7 +30,7 @@
     "chess.js": "^1.4.0",
     "fflate": "^0.8.2",
     "idb": "^8.0.3",
-    "postprocessing": "^6.38.3",
+    "postprocessing": "^6.39.4",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-router-dom": "^7.18.3",
